@@ -11,6 +11,6 @@ CTestTestfile.cmake
 _deps
 
 build/
-.vscode/
+.vscode/*
 !.vscode/launch.json
 !.vscode/tasks.json
